@@ -1,0 +1,30 @@
+.card {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.sub-item{
+    text-align: center;
+}
+
+.img-item {
+    height: 350px;
+    width: 350px;
+}
+
+.img-emoji {
+    height: 40px;
+    width: 40px;
+}
+
+.card-img-top {
+    max-height: 512px;
+}
+
+.card-body {
+    z-index: 2;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
